@@ -87,24 +87,24 @@ void setup(void) {
   // 84 portamento amount
   // 91 reverb
   // 94 detune
-  // 24 Minilogue LFO rate
-  // 26 Minilogue LFO depth
-  // 27 Minilogue voice depth
-  // 29 Minilogue delay hi-pass
-  // 30 Minilogue delay time
-  // 31 Minilogue delay feedback
-  // 33 Minilogue noise level
-  // 34 Minilogue VCO1 pitch
-  // 35 Minilogue VCO2 pitch
-  // 36 Minilogue VCO1 shape
-  // 37 Minilogue VCO2 shape
-  // 39 Minilogue VCO1 level
-  // 40 Minilogue VCO2 level
-  // 41 Minilogue cross mod depth
-  // 42 Minilogue pitch EG intensity
-  // 43 Minilogue filter cutoff
-  // 44 Minilogue filter resonance
-  // 45 Minilogue filter EG intensity
+  // 24 Korg Minilogue LFO rate
+  // 26 Korg Minilogue LFO depth
+  // 27 Korg Minilogue voice depth
+  // 29 Korg Minilogue delay hi-pass
+  // 30 Korg Minilogue delay time
+  // 31 Korg Minilogue delay feedback
+  // 33 Korg Minilogue noise level
+  // 34 Korg Minilogue VCO1 pitch
+  // 35 Korg Minilogue VCO2 pitch
+  // 36 Korg Minilogue VCO1 shape
+  // 37 Korg Minilogue VCO2 shape
+  // 39 Korg Minilogue VCO1 level
+  // 40 Korg Minilogue VCO2 level
+  // 41 Korg Minilogue cross mod depth
+  // 42 Korg Minilogue pitch EG intensity
+  // 43 Korg Minilogue filter cutoff
+  // 44 Korg Minilogue filter resonance
+  // 45 Korg Minilogue filter EG intensity
 
   tft.begin(identifier);
   tft.setRotation(3);
